@@ -1,2 +1,3 @@
-# social_learning_platform
-Updating.......
+In this we try to specifies the software requirements for the Virtual Study Groups and Social Learning Platform, a web-based application designed for the Open University of Sri Lanka(OUSL) to enhance interaction, collaborative  learning, and peer support among students in an Open and Distance Learning(ODL) environment.
+
+The site is primarily intended for the Admin Panel, lecturers, and students. It outlines the system’s features, including user registration, virtual study groups, messaging, and gamified learning. The document is organized to provide an overview, followed by detailed requirements and diagrams. Admins should focus on system management features, while lectures and students should review the collaborative learning functionalities.
